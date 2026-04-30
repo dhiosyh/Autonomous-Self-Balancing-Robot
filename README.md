@@ -1,6 +1,8 @@
 # Autonomous-Self-Balancing-Robot
 An inverted pendulum robotic system utilizing PID control and MPU6050 DMP sensor fusion for real-time vertical stability.
 
+**Link Video**: https://youtu.be/tN_EWRsiDz8
+
 ## Project Overview
 This project implements a self-balancing robot based on the inverted pendulum principle. The system maintains equilibrium on two wheels by actively adjusting motor movements in response to tilt changes, utilizing a high-frequency closed-loop control system.
 
